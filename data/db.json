@@ -1,0 +1,41 @@
+{
+  "lists": [
+    {
+      "title": "Make Spaghetti",
+      "completion": "18/5/2021",
+      "progress": "40",
+      "resources": "https://www.google.com",
+      "id": 1
+    },
+    {
+      "title": "Complete Java",
+      "completion": "21/5/2021",
+      "progress": "80",
+      "resources": "https://www.yahoo.com",
+      "id": 2
+    }
+  ],
+  "archived": [
+    {
+      "title": "Done deal",
+      "completion": "18/5/2021",
+      "progress": "40",
+      "resources": "https://www.google.com",
+      "id": 1
+    },
+    {
+      "title": "Make a playlist",
+      "completion": "20/5/2021",
+      "progress": "80",
+      "resources": "https://stackoverflow.com/questions/38321601/easier-way-to-to-disable-link-in-react\n",
+      "id": 2
+    },
+    {
+      "title": "This is you",
+      "completion": "5/7/2021",
+      "progress": "7",
+      "resources": "https://www.youtube.com/watch?v=aP-SQXTtWhY",
+      "id": 3
+    }
+  ]
+}
